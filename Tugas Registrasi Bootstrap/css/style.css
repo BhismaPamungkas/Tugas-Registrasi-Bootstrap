@@ -1,0 +1,31 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+ }
+
+body {
+    background: url('https://storage.googleapis.com/fastwork-static/62d9e5bf-e041-4523-a97e-6da37563ae2d.jpg') fixed;
+   background-size: cover;
+}
+
+*[role="form"] {
+   width: 500px;
+   padding: 40px;
+   margin: 0 auto;
+   border-radius: 0.5em;
+   background-color: #f2f2f2;
+}
+
+*[role="form"] h2 { 
+   font-family: 'Open Sans' , sans-serif;
+   font-size: 40px;
+   font-weight: 600;
+   color: #000000;
+   margin-top: 5%;
+   text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
+
